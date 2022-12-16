@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **preetibildani92@gmail.com**
-- My work **https://preetibildani.github.io/**
+- 📄 My work **https://preetibildani.github.io/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing](https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing)
 
