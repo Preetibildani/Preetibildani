@@ -92,3 +92,29 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=preetibildani&show_icons=true&locale=en" alt="preetibildani" /></p>
 
 <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetibildani&" alt="preetibildani" /></p>
+
+<br/>
+<br/>
+  
+<p align="center">
+<a href="https://github.com/Preetibildani"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preetibildani&theme=dracula" />
+</span></a> </p>
+
+<br/>
+<br/>
+
+  <br/>
+ 
+<!-- 
+<a href="https://github.com/Preetibildani/github-readme-activity-graph"><img alt="Preetibildani Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetibildani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
+<br/> -->
+  
+  <br/>
+
+<a href="https://github.com/Preetibildani/github-readme-activity-graph"><img alt="Preetibildani Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetibildani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
