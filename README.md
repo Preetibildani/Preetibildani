@@ -11,8 +11,9 @@
 
 - 📫 How to reach me **preetibildani92@gmail.com**
 - 📄 My work Profile **https://preetibildani.github.io/**
+- 📄 My Linkedin Profile **https://www.linkedin.com/in/preeti-bildani-8a8677232/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing](https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing](https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing)
 
 
    
