@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **preetibildani92@gmail.com**
-- 📄 My work Profile **https://preetibildani.github.io/**
-- 📄 My Linkedin Profile **https://www.linkedin.com/in/preeti-bildani-8a8677232/**
+- 👨‍💻 My work Profile **https://preetibildani.github.io/**
+- 🔭 My Linkedin Profile **https://www.linkedin.com/in/preeti-bildani-8a8677232/**
 
-- 📄 My Resume [https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing](https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing)
+- 👨‍🎓 My Resume [https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing](https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=sharing)
 
 
    
@@ -52,7 +52,21 @@
 
 <br/>
 <br/>
-
+                                                                                                                                 
+ <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                                        
+ 
+ 
+<div><h2> 🌐 Socials</h2> <div/>
+<br/>
+<p align="left">
+<a href = "https://www.linkedin.com/in/preeti-bildani-8a8677232/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto: pritibildani92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://preetibildani.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://drive.google.com/file/d/1n_wtR7GrfwU5w1E3kijo2u4ZDTggBCJs/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+ 
+</p>
+                                                                                                                       
+ <br/>   
 <h2 >📊 My Github Stats</h2>
 <br/>
    <br/>
@@ -82,11 +96,14 @@
 <a href="https://github.com/Preetibildani/github-readme-activity-graph"><img alt="Preetibildani Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetibildani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 <br/> -->
-  
-  <br/>
-
-<a href="https://github.com/Preetibildani/github-readme-activity-graph"><img alt="Preetibildani Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetibildani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ 
 <br/>
-<br/>
+<!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
 
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+       <!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> -->
+        <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
+<br/>
